@@ -13,7 +13,5 @@ This project aims to detect fake news articles using machine learning techniques
 - Scikit-learn
 - Streamlit
   
-**Files:**
-- train.csv: Dataset containing labeled news articles.
-- app.py: Python script for preprocessing data, training the model, and defining the Streamlit web app interface.
+
 
